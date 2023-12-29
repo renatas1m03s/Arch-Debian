@@ -1,2 +1,1 @@
-# Arch-Debian
-Setup Arch on My PC
+This is a personal bunch of files for automate my arch setup - Learning purpose
