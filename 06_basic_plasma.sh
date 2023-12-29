@@ -14,9 +14,9 @@ yay -S --needed  plasma-wayland-session egl-wayland
 
 yay -S --needed  --noconfirm okular dolphin konsole ark spectacle gwenview geany kcalc openconnect networkmanager-openconnect
 
-yay -S --needed  --noconfirm ffmpeg smplayer kio kio-extras ffmpegthumbs kdegraphics-thumbnailers
+yay -S --needed  --noconfirm ffmpeg smplayer kio5 kio-extras ffmpegthumbs kdegraphics-thumbnailers
 
-yay -S --needed  --noconfirm kimageformats qt5-imageformats kdesdk-thumbnailers neofetch openvpn
+yay -S --needed  --noconfirm kimageformats5 qt5-imageformats kdesdk-thumbnailers neofetch openvpn
 
 yay -S --needed  --noconfirm resvg raw-thumbnailer google-chrome snapd usb_modeswitch
 
